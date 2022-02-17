@@ -1,3 +1,15 @@
-# mda-email-template
+# Modern Design Agency Email Template
 
-[Watch Tutorial](https://www.youtube.com/watch?v=_G5OuTmuU0Q&ab_channel=ResponsiveHTMLEmail) - The RIGHT WAY to Build HTML Email Templates 2022
+### About
+
+How to create responsive html email template using tables and test it by sending it to your email.
+
+### Resources
+
+[Tutorial](https://www.youtube.com/watch?v=_G5OuTmuU0Q&ab_channel=ResponsiveHTMLEmail) - The right way to build HTML email templates
+
+[PutsMail](https://putsmail.com/) - Test your HTML emails before sending them
+
+[Placeholder](https://placeholder.com/) - The free image placeholder service favoured by designers
+
+[imgbb](https://imgbb.com/) - Upload and share your images
